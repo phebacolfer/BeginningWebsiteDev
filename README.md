@@ -1,2 +1,2 @@
 # BeginningWebsiteDev
-First introductory website development project
+First introductory website development project and exploration 
